@@ -1,15 +1,34 @@
+*{
+    background-color: gray;  
+}
+
+
 h1 {
-    color: red;
+    color: black;
+    margin: auto;
+    background-size: auto;
+    background-color: white;
+    text-align: center;
 }
 
 #Flan {
-    background-color: tan
+    background-color: White;
+    padding: 10px;
+    margin: 10px;
+    display: block;
 }
 
 #Chicken {
-    background-color: brown;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    display: block;
 }
 
 #Bread{
-    background-color: beige;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    display: block;
+
 }
